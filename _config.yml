@@ -1,0 +1,28 @@
+name: The Wiitala Brothers
+favicon: null
+layout_spectrum: 0.47810508543625474
+typography_spectrum: 0.3999162605032325
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5488368009682745
+  lightness: 0.8478340720757842
+  saturation: 0.44274466298520565
+  rhythmicContrast: 0.31048375368118286
+purpose: []
