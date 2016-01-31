@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Wiitala Brothers]]></title>
+        <description><![CDATA[The Wiitala Brothers]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 31 Jan 2016 21:16:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hello one two three</p>]]></description>
+            <link>undefined3be7f024-a373-44c5-8453-3580b0025e47/index.html</link>
+            <guid isPermaLink="false">3be7f024-a373-44c5-8453-3580b0025e47</guid>
+            <pubDate>Sun, 31 Jan 2016 21:16:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
