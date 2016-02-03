@@ -1,4 +1,4 @@
-name: The Wiitala Brothers
+name: THE WiiTALA BROTHERS
 favicon: null
 layout_spectrum: 0.23892
 typography_spectrum: 0.41668
@@ -20,7 +20,7 @@ cta:
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-555346-1
   facebook: null
   twitter: null
 opengraph:
