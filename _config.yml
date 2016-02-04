@@ -1,41 +1,41 @@
-name: THE WiiTALA BROTHERS
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.41668
+analytics:
+  twitter: null
+  google: UA-555346-1
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0
 title: THE WiiTALA BROTHERS
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: UA-555346-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
 color:
+  saturation: 0
+  brandStrength: 0
+  rhythmicContrast: 1
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0
   lightness: 1
-  saturation: 0
-  rhythmicContrast: 1
 purpose: []
+favicon: null
+name: THE WiiTALA BROTHERS
+typography_spectrum: 0.41668
