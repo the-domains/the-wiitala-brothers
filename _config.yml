@@ -1,4 +1,4 @@
-typography_spectrum: 0.41668
+name: THE WiiTALA BROTHERS
 opengraph:
   image: null
   type: null
@@ -9,12 +9,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 layout_spectrum: 0
 title: THE WiiTALA BROTHERS
 purpose: []
@@ -34,8 +34,8 @@ cta:
   version: null
   domain: null
 favicon: null
+typography_spectrum: 0.41668
 analytics:
   twitter: null
   google: UA-555346-1
   facebook: null
-name: THE WiiTALA BROTHERS
