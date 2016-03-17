@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[THE WiiTALA BROTHERS]]></title>
         <description><![CDATA[THE WiiTALA BROTHERS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thewiitalabrothers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 01:18:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 01:20:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thewiitalabrothers/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>FUCK THIS SHIT</p>]]></description>
-            <link>undefined5425b661-ebf3-457a-85c2-40c16c6c9686/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5934e7f2-b159-4242-b17a-73aad9c07b6e.jpg">]]></description>
+            <link>https://thegrid.ai/thewiitalabrothers/5425b661-ebf3-457a-85c2-40c16c6c9686/index.html</link>
             <guid isPermaLink="false">5425b661-ebf3-457a-85c2-40c16c6c9686</guid>
-            <pubDate>Thu, 17 Mar 2016 01:18:22 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2016 01:20:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
